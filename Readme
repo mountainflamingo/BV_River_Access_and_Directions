@@ -1,0 +1,11 @@
+This was originally a project for a Web GIS course, that ended up becoming more interesting as time has progressed.
+Having rafted this area and wanting to provide a map online that shows such. I undertook to create something similar to what I found 
+from Wilderness Aware, sadly it was just a PDF.
+This map uses mapbox, the background information on the access points and Arkansas River were created from a student license of ESRI,
+and uploaded as tilesets to mapbox.
+the info can be found here
+"https://api.mapbox.com/styles/v1/mountainflamingo/cj264ixcl001n2st23tugksyv.html?title=true&access_token=pk.eyJ1IjoibW91bnRhaW5mbGFtaW5nbyIsImEiOiJjaXkyY2p3MTUwMDFwMndwZzBnYWRvdzhlIn0.Y8fngTE0aC0FlFcuSMd0mw#10.8/38.904292/-106.132385/0"
+
+I kept it all in the html, as parsing this out was gonna be more time consuming than I intended. But would make things load a little quicker possibly. 
+
+PS - Visit Eddyline Brewing in Buena Vista, CO. Didn't have a chance to add that little detail.
